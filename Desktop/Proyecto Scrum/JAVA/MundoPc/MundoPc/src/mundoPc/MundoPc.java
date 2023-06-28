@@ -12,7 +12,7 @@ public class MundoPc {
         Raton ratonHP = new Raton("Bluetooth", "HP");
         Computadora computadoraHP = new Computadora("Computadora HP", monitorHP, tecladoHP, ratonHP);
         
-        //Objeto 2
+        //Objeto 2 Matias Nicolas Peña
         Monitor monitorGamer = new Monitor("Gamer", 32); 
         Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
         Raton ratonGamer = new Raton("Bluetooth", "Gamer");
